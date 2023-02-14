@@ -2,7 +2,7 @@
         id: swa
         uses: azure/static-web-apps-deploy@latest
         with:
-          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_TOKEN }}
+          azure_static_web_apps_api_token: ${{ 2e524621c423b25bafd993cbc58db3dd9d92198ddc072adde10408bf895c57b72-ade3f159-77c7-478d-bc57-5dfea8c22823010172428 }}
           repo_token: ${{ secrets.GITHUB_TOKEN }} # Used for GitHub integrations (i.e. PR comments)
           action: "upload"
           app_location: "/" # App source code path
