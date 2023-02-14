@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/dedf4228-ec15-4d7b-878c-eb4af76e993d/resourceGroups/overviewapilinu_group/subscriptions/dedf4228-ec15-4d7b-878c-eb4af76e993d/resourceGroups/overviewapilinu_group/providers/Microsoft.Web/sites/overviewfront",
+    "appService.deploySubpath": "."
+}
